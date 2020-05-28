@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Cabbinow</string>
+    <string name="title_activity_driver_maps">Map</string>
+    <string name="title_activity_customer_maps">Map</string>
 </resources>

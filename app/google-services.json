@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "292491372727",
+    "firebase_url": "https://cabbinow.firebaseio.com",
+    "project_id": "cabbinow",
+    "storage_bucket": "cabbinow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292491372727:android:5c5d3f28a059620c430532",
+        "android_client_info": {
+          "package_name": "com.example.cabbinow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292491372727-io3qtupasih10fuur2du32qclf1et4f9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cabbinow",
+            "certificate_hash": "6f8893ba005d91498c1ab2c864c247b9b5b9aebf"
+          }
+        },
+        {
+          "client_id": "292491372727-aadnmq20ljb1ml9tffkljagg2r2jtmmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeVw_P7v-WtqG3FPonweiqliZGrfB07Y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292491372727-aadnmq20ljb1ml9tffkljagg2r2jtmmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
